@@ -1,2 +1,2 @@
-# suryaprodig
-My Responsive Profile Using HTML/CSS
+# SuryaKaranam.github.io
+My Digital Profile With Responsive
